@@ -27,11 +27,12 @@
     "당잠사": "당잠사"
   },
   "slack": {
-    "channel_id": "",
-    "enabled": false
+    "channel_id": "C0ARSJQE42W",
+    "enabled": true
   },
   "notion": {
-    "database_id": "",
-    "enabled": false
+    "database_id": "43510ffcc9084ac9bf9bf8e293221f57",
+    "data_source_id": "ab834b05-9c1a-430f-b918-0759395de7eb",
+    "enabled": true
   }
 }
